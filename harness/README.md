@@ -14,7 +14,7 @@ Renders
 
 <p align="center">
   <img src="./harness-3-render-top.jpg" width="350" title="Harness Top View">
-  <img src="./hardness-3-xray-top.jpg" width="350" alt="Harness Top X-ray View">
+  <img src="./harness-3-xray-top.jpg" width="350" alt="Harness Top X-ray View">
 </p>
 
 <p align="center">
