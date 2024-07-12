@@ -1,5 +1,5 @@
-Pixie Cases
-===========
+Firefly Pixie: Case
+===================
 
 Clam Shell
 ----------
