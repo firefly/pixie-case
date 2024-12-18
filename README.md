@@ -19,11 +19,11 @@ It provides sufficient protection to the PCB, display and buttons
 for development purposes.
 
 <p align="center">
-  <img src="./harness/harness-3-render-top.jpg" width="350" title="Harness Top View">
-  <img src="./harness/harness-3-xray-top.jpg" width="350" alt="Harness Top X-ray View">
+  <img src="./harness/v5/render-top.jpg" width="350" title="Harness Top View">
+  <img src="./harness/v5/xray-top.jpg" width="350" alt="Harness Top X-ray View">
 </p>
 
 <p align="center">
-  <img src="./harness/harness-3-render-bottom.jpg" width="350" title="Harness Bottom View">
-  <img src="./harness/harness-3-xray-bottom.jpg" width="350" alt="Harness Bottom X-ray View">
+  <img src="./harness/v5/render-bottom.jpg" width="350" title="Harness Bottom View">
+  <img src="./harness/v5/xray-bottom.jpg" width="350" alt="Harness Bottom X-ray View">
 </p>
