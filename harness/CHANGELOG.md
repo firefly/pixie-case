@@ -4,6 +4,17 @@ Changelog
 Since SketchUP files don't diff well, this log serves as a history of
 the changes made between harness versions.
 
+v5; 2024-10-06
+--------------
+
+- Remove display end retaining ledge and add display retaining nib
+
+v4; 2024-08-24
+--------------
+
+- Added deeper retaining ledge.
+- Increased gap around buttons.
+
 v3; 2024-06-25
 --------------
 
